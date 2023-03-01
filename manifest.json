@@ -1,0 +1,15 @@
+{
+  "background_color": "#4e23a0",
+  "display": "standalone",
+  "name": "www.ashl.odoo",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "www.ashl.odoo",
+  "start_url": "/",
+  "theme_color": "#6e97db",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "description": "ashl"
+}
