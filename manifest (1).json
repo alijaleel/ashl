@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "name": "www.ashl.odoo",
+  "orientation": "any",
+  "scope": "/ashl.odoo.com",
+  "short_name": "www.ashl.odoo",
+  "start_url": "/ashl.odoo.com",
+  "theme_color": "#ffffff",
+  "categories": [
+    "business"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "dir": "auto",
+  "lang": "av"
+}
