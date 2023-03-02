@@ -17,24 +17,7 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  // id field removed
-  // start_url changed to absolute path
-  // scope changed to match start_url
-  // description moved before shortcuts
-  // screenshots removed
-  // comments added for explanation
-  //"id": "/?source=pwa", 
-  //"start_url": "/?source=pwa", 
-  //"scope": "/", 
-  //"description": "", 
-  //"screenshots":[...],
-  
-   // new fields added below
-   // start_url changed to absolute path
-   // scope changed to match start_url
-   // description moved before shortcuts
-   
+  ],  
    start_url: "/index.html?source=pwa", 
    scope: "/", 
    description: "",
